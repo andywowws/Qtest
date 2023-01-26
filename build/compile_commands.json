@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/zhouchang/build",
+  "command": "D:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/zhouchang.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zhouchang.dir\\zhouchang_autogen\\mocs_compilation.cpp.obj -c D:\\zhouchang\\build\\zhouchang_autogen\\mocs_compilation.cpp",
+  "file": "D:/zhouchang/build/zhouchang_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/zhouchang/build",
+  "command": "D:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/zhouchang.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zhouchang.dir\\main.cpp.obj -c D:\\zhouchang\\zhouchang\\main.cpp",
+  "file": "D:/zhouchang/zhouchang/main.cpp"
+},
+{
+  "directory": "D:/zhouchang/build",
+  "command": "D:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/zhouchang.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zhouchang.dir\\zc.cpp.obj -c D:\\zhouchang\\zhouchang\\zc.cpp",
+  "file": "D:/zhouchang/zhouchang/zc.cpp"
+}
+]
